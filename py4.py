@@ -1,7 +1,7 @@
 # oh man, can't wait until we get to Classes
 
 cars = 100
-space_in_car = 4.0
+space_in_car = 4
 drivers = 30
 passengers = 90 
 cars_not_driven = cars - drivers
@@ -22,3 +22,6 @@ print("There will be", cars_not_driven, "empty cars today.")
 print("We can transport", carpool_capacity, "people today.")
 print("We have", passengers, "to carpool today.")
 print("We need to put about", ave_passengers_per_car, "in each car.")
+
+# for exercise question #1, yeah if you use 4, the carpool_capacity will be an integer and not a float
+# i.e. 120 vs 120.0
