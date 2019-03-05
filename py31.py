@@ -47,3 +47,4 @@ else:
 	print("You stumble around and fall on a banana, and pass out. Check your spelling! Capitalizaton matters.")	#the text from the exercise was too morbid.
 	
 # ok so it didn't work first time around, turns out, you NEED to specify variable for both the booleans
+# listening to Meek Mill - Dreams and Nightmares. Intense.
